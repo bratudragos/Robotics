@@ -1,1 +1,1 @@
-
+analogRGBControl - source code for controlling the color of a RGB LED with the help of three different potentiometers, each being responsible for the intensity of each color channel : red, green and blue.
