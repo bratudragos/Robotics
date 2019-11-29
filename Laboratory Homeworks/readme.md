@@ -6,4 +6,4 @@ knockDetectorBuzzer.ino- source code for a program takes input from a passive bu
 
 pitches.h- library containing pitches used in modern musical compositions, expressed as their value in Hertz ( eg: A4 is at 440Hz).
 
-LCDGameMenu.ino- source code for a program that displays and controls a game menu on a 16x2 LCD display.To navigate,use the axis controllers and the button.
+LCDGameMenu.ino- source code for a program that displays and controls a game menu on a 16x2 LCD display.To navigate,use the axis controllers and the button. Navigating the menu video link: https://www.youtube.com/watch?v=ze6zXQ1CN2k
