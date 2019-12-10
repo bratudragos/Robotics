@@ -8,3 +8,4 @@ Unstoppable Tank - throwback arcade game, fitting in the Shoot 'Em Up genre;
                    With each level finished, the number of points that are awarded for your actions is increased too.
                    The player starts with one life only, meaning that if the tank gets hit once, the game is over. You can
                    increase your lives by shooting down the enemy bullets, every 10 kills awarding a new life.
+                   The HighScore will be tracked and saved, with player being able to compete between themselves.
